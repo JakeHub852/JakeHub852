@@ -1,4 +1,5 @@
 🌱 My Coding Journey
+
 Hey there! 👋
 
 I'm embarking on an exciting journey to learn how to code, and I'm starting with Boot.dev — a great platform focused on backend development using Python, JavaScript, and more.
